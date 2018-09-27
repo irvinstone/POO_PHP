@@ -22,7 +22,7 @@ Clonar el Repositorio
 ```
     $ git clone https://github.com/irvinstone/POO_PHP
 ```
-Ubicarse dentro de la carpeta del repoitorio
+Ubicarse dentro de la carpeta del repositorio
 ```
     $ cd POO_PHP
 ```
@@ -31,4 +31,4 @@ Ejecutar
     $ php Poo.php
 ```
 
-## providede By Irvin Leon
+## provided By Irvin Leon

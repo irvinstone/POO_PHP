@@ -73,7 +73,7 @@ class Humano extends Animal implements HumanoInterface, AnimalInterface
 
     public function comer()
     {
-        echo "comiendo sofisticadamente";
+        echo "comiendo sofisticadamente\n";
     }
 
     public function hablar()
@@ -83,7 +83,7 @@ class Humano extends Animal implements HumanoInterface, AnimalInterface
 
     public function hacerRuido()
     {
-        echo "aaaaaaaaaaaaaaaaaaa";
+        echo "aaaaaaaaaaaaaaaaaaa\n";
     }
 
     /**Método abstracto:
@@ -141,6 +141,10 @@ class Life
         $personaX->adoptarMascota($gato);
         $personaX->adoptarMascota($perro);
         $personaX->comer();
+        /**
+         * Esto es posible en la vida real?
+         */
+        $personaX->adoptarMascota($padre);
     }
 }
 
