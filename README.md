@@ -1,7 +1,8 @@
 # POO_PHP
 [![GitHub stars](https://img.shields.io/github/stars/irvinstone/POO_PHP.svg?style=social)](https://github.com/irvinstone/https://github.com/irvinstone/POO_PHP/stargazers)
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/irvinstone/POO_PHP.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Firvinstone%2FPOO_PHP)
-[![GitHub downloads](https://img.shields.io/github/downloads/irvinstone/POO_PHP/total.svg)](https://github.com/irvinstone/POO_PHP)
+[![GitHub downloads](https://img.shields.io/github/downloads-pre/atom/atom/latest/total.svg)](https://github.com/irvinstone/POO_PHP)
+
 
 
 
